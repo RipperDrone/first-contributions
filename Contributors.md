@@ -1,4 +1,4 @@
-﻿ Contributors
+ Contributors
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Elite-Debashis] (https://github.com/Elite-Debashis)
@@ -18387,3 +18387,4 @@ Shenyi Amand
 - [jindalshiva] (https://github.com/jindalshiva/)
 - [Bruno Russi Lautenschlager] (https://github.com/brunoxd13/)
 - [Anish Sharma] (https://github.com/aneeshsharma/)
+- [Reinhard Plietsch] (https://github.com/RipperDrone/)
